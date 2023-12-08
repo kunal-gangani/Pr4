@@ -1,3 +1,11 @@
+/*
+Q.4 Write a Program to print the below pattern using nested for loop.
+10101
+1010
+101
+10
+1
+*/
 #include<stdio.h>
 void main(){
 	int i,j,k;
